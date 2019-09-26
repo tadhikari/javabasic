@@ -1,0 +1,12 @@
+a.) student name, student id, course registered, Marks Scored, standing (semester wise), residential status.
+I think other than student name and marks scored everything else can be exposed.
+
+b.) Only one method is sufficient to calulate the grade of different type of student. Even though the declaration of the method
+	might be same but the implementation will be different.
+
+c.) Student Id, Student Name, Marks Scored, Semester, Residential Status are the attributes of students so 
+	I would create a getter and setter for each of these properties. Other than that I would create a pay fees method
+	Therefore a total of 11 functions.
+	
+d.) Encapsulation, and Inheritence.
+

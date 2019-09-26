@@ -1,0 +1,19 @@
+Answer the following
+
+a. Identify two cases of hierchy in the given problem statement
+
+Ans: 1. full time lecturers and visiting members can be categorized as children of lecturers class
+     2. A class named Semester may be a parent class of all the other semester classes as they may share some common behaviors and properties.
+
+b. Identify the common behaviour among the day scholar, host-elite, graduate and post graduate students
+
+Ans: getResidentStatus(),setResidentStatus(), setElective(), getElective()
+
+c. Identify the different layers possible in this system in terms of the users of the systems
+
+Ans: Student and Staff both can be considered as children of User class as they both have access to 
+     the system and might share certain similar functionalities as well as have different use cases.
+
+d. The admin staff wants to generate a report containing the score of students in a batch in the following manner:
+
+Ans: The details are: student id, student's name, marks cored, lecturer name, course name
